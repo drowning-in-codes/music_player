@@ -1,2 +1,2 @@
 # music_player
-for practrice
+for practice
